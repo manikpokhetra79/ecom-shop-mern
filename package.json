@@ -1,0 +1,22 @@
+{
+  "name": "ecom-shop",
+  "version": "1.0.0",
+  "description": "mern ecommerce store",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikpokhetra79/ecom-shop-mern.git"
+  },
+  "author": "manik pokhetra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikpokhetra79/ecom-shop-mern/issues"
+  },
+  "homepage": "https://github.com/manikpokhetra79/ecom-shop-mern#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
